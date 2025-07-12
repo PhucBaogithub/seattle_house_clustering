@@ -119,4 +119,7 @@ Thumbs.db
 *~
 
 # Streamlit
-.streamlit/ 
+.streamlit/
+
+# Large notebook files (optional - can be downloaded separately)
+DataMining.ipynb 
