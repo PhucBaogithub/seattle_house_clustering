@@ -214,8 +214,8 @@ Chúng tôi hoan nghênh mọi đóng góp cho dự án:
 ## Tác Giả
 
 **Phuc Bao**
-- Email: [baominecraft12344@gmail.com]
-- GitHub: [PhucBaogithub]
+- Email: baominecraft12344@gmail.com
+- GitHub: PhucBaogithub
 
 ## Giấy Phép
 
