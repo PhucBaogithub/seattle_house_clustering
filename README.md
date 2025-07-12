@@ -84,7 +84,7 @@ seattle-house-clustering/
 
 ```bash
 # Clone repository
-git clone https://github.com/username/seattle-house-clustering.git
+git clone https://github.com/PhucBaogithub/seattle_house_clustering.git
 cd seattle-house-clustering
 
 # Cài đặt dependencies
@@ -107,7 +107,7 @@ streamlit run streamlit_app.py
 # Khởi động Jupyter
 jupyter notebook
 
-# Mở file DataMining (2).ipynb
+# Mở file DataMining.ipynb
 # Chạy từng cell theo thứ tự
 ```
 
@@ -214,8 +214,8 @@ Chúng tôi hoan nghênh mọi đóng góp cho dự án:
 ## Tác Giả
 
 **Phuc Bao**
-- Email: [email]
-- GitHub: [github_username]
+- Email: [baominecraft12344@gmail.com]
+- GitHub: [PhucBaogithub]
 
 ## Giấy Phép
 
